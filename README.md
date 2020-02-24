@@ -13,3 +13,5 @@ To test
 ```
 node index.js
 ```
+
+Then check public\books\basic.epub
